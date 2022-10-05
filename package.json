@@ -1,5 +1,5 @@
 {
-  "name": "trivial-packages",
+  "name": "lerna-packages",
   "private": true,
   "workspaces": [
     "packages/*"

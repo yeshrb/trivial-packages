@@ -1,5 +1,5 @@
 {
-  "name": "@reulav-cli/is-even-lib",
+  "name": "@reulav-cli/core",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "= <yeshrb@126.com>",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/is-even.test.js"
   },
   "dependencies": {
-    "@reulav-cli/is-odd": "*"
+    "@reulav-cli/tools": "*"
   },
   "publishConfig": {
     "access": "public"
