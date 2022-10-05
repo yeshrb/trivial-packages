@@ -1,0 +1,25 @@
+{
+  "name": "@reulav-cli/is-even",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "= <yeshrb@126.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/is-even.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/is-even.test.js"
+  },
+  "dependencies": {
+    "@reulav-cli/is-odd": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
