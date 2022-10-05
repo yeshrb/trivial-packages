@@ -1,6 +1,6 @@
 {
   "name": "@reulav-cli/core",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "= <yeshrb@126.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/is-even.test.js"
   },
   "dependencies": {
-    "@reulav-cli/tools": "*"
+    "@reulav-cli/tools": "^1.0.0"
   },
   "publishConfig": {
     "access": "public"
